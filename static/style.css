@@ -125,7 +125,7 @@ section.intro .text-box .title img{height: 45px;}
 section.intro .attend{text-align: center;}
 section.intro .attend img{width: 100%; max-width: 340px; margin-top: 43px; margin-bottom: 45px;}
 
-section.intro .bg00{position: fixed; bottom: -1vh; right: 0; z-index: 0;}
+section.intro .bg00{position: fixed; bottom: -1vh; right: 15px; z-index: 0;}
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
     section.intro .bg00{ right: 17px;}
 }
