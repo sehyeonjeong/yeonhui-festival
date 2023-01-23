@@ -61,7 +61,7 @@ body.special-page{background-color: #68B578!important;}
 .m-menu .m-nav ul li:first-child{margin-top: 59px;}
 .m-menu .m-nav ul li{margin-bottom: 23px;}
 
-section{position: absolute; overflow-y: auto; overflow-x: hidden; width: 100vw; height: 100vh; z-index: 1;}
+section{position: absolute; overflow: initial; overflow-y: overlay; width: 100vw; height: 100vh; z-index: 1;}
 section .section-content .fixed .text-box .list li{font-size: 13px; font-weight: 500; line-height: 17px; margin-bottom:5px; letter-spacing: -0.04em; opacity: 0.8;}
 section .section-content .fixed .text-box .list ul{padding: 6px 0;}
 section .section-content .fixed .text-box .cta-button{margin-top: 35px;}
